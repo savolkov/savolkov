@@ -1,20 +1,20 @@
 # Hi 👋 My name is Semyon!
 I'm a Fullstack js developer, HSE alumnus, cyclist.
 
-### Currently employed at [Miro](https://miro.com)
+Currently my main interests are frontend architecture (including MFA) and backend development using node.js.
 
-#### Contact me
-* [telegram](https://t.me/sovunito)
-* [sv@savolkov.tech](mailto:savolkov.tech)
+### 🏢 Currently employed at [Miro](https://miro.com)
 
-
-#### Follow me
-* [instagram](https://instagram.com/sa.volkov_)
-
-#### Hire me
-* [career.habr.com](https://career.habr.com/savolkov)
+#### 👨‍💼 Hire me
 * [linkedIn](https://www.linkedin.com/in/savolkov/)
 * [get cv in pdf (actual for 06.2022)](https://savolkov.tech/files/Semyon_Volkov_Software_Engineer_Resume_06_22.pdf)
+* [career.habr.com](https://career.habr.com/savolkov)
+#### 💌 Contact me
+* [telegram](https://t.me/sovunito)
+* [sv@savolkov.tech](mailto:savolkov.tech)
+#### 📱 Follow me
+* [instagram](https://instagram.com/sa.volkov_)
+
 
 <!--
 **savolkov/savolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
