@@ -1,6 +1,7 @@
 # Hi 👋
 ## My name is Semyon!
-### Fullstack js developer, HSE alumnus, cyclist.
+I'm a Fullstack js developer, HSE alumnus, cyclist.
+
 ### Currently employed at [Miro](https://miro.com)
 
 #### Contact me
