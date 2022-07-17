@@ -1,5 +1,4 @@
-# Hi 👋
-## My name is Semyon!
+# Hi 👋 My name is Semyon!
 I'm a Fullstack js developer, HSE alumnus, cyclist.
 
 ### Currently employed at [Miro](https://miro.com)
