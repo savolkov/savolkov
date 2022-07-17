@@ -5,7 +5,7 @@ I'm a Fullstack js developer, HSE alumnus, cyclist.
 ### Currently employed at [Miro](https://miro.com)
 
 #### Contact me
-* [telegram](https://t.me/sovunito
+* [telegram](https://t.me/sovunito)
 * [sv@savolkov.tech](mailto:savolkov.tech)
 
 
