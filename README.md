@@ -16,7 +16,7 @@ I'm a Fullstack js developer, HSE alumnus, cyclist.
 * [career.habr.com](https://career.habr.com/savolkov)
 * [linkedIn](https://www.linkedin.com/in/savolkov/)
 * [get cv in pdf (actual for 06.2022)](https://savolkov.tech/files/Semyon_Volkov_Software_Engineer_Resume_06_22.pdf)
-* 
+
 <!--
 **savolkov/savolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
